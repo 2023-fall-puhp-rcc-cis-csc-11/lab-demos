@@ -1,6 +1,6 @@
 
-# Lab Demos
+# 2023 Spring - Lab Demos with Professor P
 
-This repository will be home to all the lab demos from our lectures.
+(C) Mike Peralta, all rights reserved. My students may view this online or save a local copy.
 
 
